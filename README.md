@@ -1,4 +1,4 @@
-# Background
+# About
 
 Asynchronous CRUD operations are modelled in the `AsyncCrudOperations` trait.
 
