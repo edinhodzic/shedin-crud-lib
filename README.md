@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/edinhodzic/shedin-crud-lib.svg?branch=master)](https://travis-ci.org/edinhodzic/shedin-crud-lib)
+
 # About
 
 Asynchronous CRUD operations are modelled in the `AsyncCrudOperations` trait.
