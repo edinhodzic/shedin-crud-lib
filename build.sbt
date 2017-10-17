@@ -4,7 +4,7 @@ organization := "io.shedin.library"
 
 name := "shedin-crud-lib"
 
-version := "0.2.0-SNAPSHOT"
+version := "0.2.0"
 
 lazy val shedinCrudLib = project.in(file("."))
   .settings(name := "shedin-crud-lib")
