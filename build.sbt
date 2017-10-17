@@ -11,6 +11,7 @@ version := "0.2.1"
 lazy val shedinCrudLib = project.in(file("."))
   .settings(bintrayPublishSettings: _*)
   .settings(
+    sbtPlugin := false,
     licenses += ("Apache-2.0", url("https://opensource.org/licenses/Apache-2.0")),
     publishMavenStyle := false,
     repository in bintray := "shedin",
